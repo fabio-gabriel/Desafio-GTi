@@ -1,0 +1,225 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+
+.logo {
+  padding-left: 10px;
+  width: 8%;
+}
+
+.btn-group {
+  position: fixed;
+  right: 10px;
+}
+
+.dropdown-menu {
+  left: auto;
+  right: 0px;
+}
+
+.hero {
+  margin-top: 55px;
+}
+
+.hero-image {
+  background-image: linear-gradient(#00000066, rgba(0, 0, 0, 0.4)),
+    url(https://images.pexels.com/photos/1670977/pexels-photo-1670977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  margin-top: 150px;
+  text-align: center;
+}
+
+#h1 {
+  white-space: nowrap;
+  font-family: "Audiowide", sans-serif;
+  font-size: 3rem;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-fill-color: white;
+}
+
+#sub-h1 {
+  font-family: monospace;
+  font-size: 1.6rem;
+  color: white;
+}
+
+.servicos {
+  font-size: 3rem;
+  color: rgb(39, 39, 39);
+  font-family: Impact, sans-serif;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.servicos-und {
+  font-size: 1rem;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.sub-h3 {
+  font-family: sans-serif;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.portfolio {
+  background-color: rgb(179, 179, 179);
+  font-size: 3rem;
+  color: rgb(39, 39, 39);
+  font-family: Impact, sans-serif;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.resp-img {
+  width: 60%;
+  border-radius: 15px;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+.resp-img2 {
+  width: 70%;
+  border-radius: 50%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+.linha-do-tempo {
+  font-size: 3rem;
+  color: rgb(39, 39, 39);
+  font-family: Impact, sans-serif;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.nosso-time {
+  background-color: rgb(179, 179, 179);
+  font-size: 3rem;
+  color: rgb(39, 39, 39);
+  font-family: Impact, sans-serif;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.nome {
+  font-size: 3rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.titulo {
+  font-size: 1.5rem;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  color: rgb(63, 63, 63);
+}
+
+.social {
+  width: 60%;
+}
+
+.img-ldt {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid lightslategray;
+}
+
+.ldt-d {
+  font-family: sans-serif;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.ldt-e {
+  font-family: sans-serif;
+  font-size: 1rem;
+  text-align: right;
+}
+
+.ldt-titulos-e {
+  text-align: right;
+}
+
+.ldt-titulos-d {
+  text-align: left;
+}
+
+.parceiros {
+  font-size: 3rem;
+  color: rgb(39, 39, 39);
+  font-family: Impact, sans-serif;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.logos {
+  width: 60px;
+  filter: grayscale(100%);
+}
+
+.contato {
+  background-color: rgb(179, 179, 179);
+  font-size: 3rem;
+  color: rgb(39, 39, 39);
+  font-family: Impact, sans-serif;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.formulario {
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+
+.input1 {
+  width: 50%
+}
+
+.input2 {
+  line-height: 200px;
+  width: 50%;
+} 
+
+.rodape{
+  color: rgb(196, 194, 194);
+  text-align: center;
+  position: relative;
+  top: 50%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.icone {
+  width: 60px;
+  padding-bottom: 5px;
+}
